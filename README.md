@@ -1,5 +1,7 @@
 # C-to-MIPS-Compiler
-:star:This repository is the compiler project of Instruction Architecture and Compiler course in 2nd Year Imperial College London EIE department. The project passed 184 out of 202 of examiners' tests (including unseen tests not in this repo). 
+:star:This repository is the compiler project of Instruction Architecture and Compiler course in 2nd Year Imperial College London EIE department. 
+
+The project passed all provided testcases and 184 out of 202 of examiners' testcases (including unseen tests not in this repo). 
 
 ## Guide
 The project specification is in the project_description directory.
