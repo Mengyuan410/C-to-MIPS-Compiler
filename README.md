@@ -4,7 +4,7 @@
 The project passed all provided testcases and 184 out of 202 of examiners' testcases (including unseen tests not in this repo). 
 
 ## Overview
-The project is a C to MIPS compiler written in C++. The compiler lex, parse, and generate correspondin MIPS code from the given input C programme. The project specification is in the *project_description* directory. The project management logbook is contained inside ** directory.
+The project is a C to MIPS compiler written in C++. The compiler lex, parse, and generate correspondin MIPS code from the given input C programme. The project specification is in the *project_description* directory. The project management logbook is contained inside *project_description/project_managment_log.md*.
 
 ## Running Guidelines
 Use <code> ./utility/test_dir.sh </code> to run all test cases.
